@@ -25,6 +25,6 @@ class App < Sinatra::Base
     @answer = @maths1 * @maths2
     "#{@answer}!"
   end
-  
+
 
 end
